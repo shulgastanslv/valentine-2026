@@ -23,7 +23,7 @@ export default function HomePage() {
                     
                     <div
                         className="text-sm font-medium tracking-[0.25em] p-4 uppercase text-[#a39896] backdrop-blur-md px-6 py-3 rounded-full border border-[#f0ebea]/60 bg-white/20 shadow-lg">
-                        Моему котику 🐈‍⬛
+                        Моему котику
                     </div>
                     <div className="relative text-center space-y-8 max-w-4xl mx-auto">
                         <div className="space-y-2 px-4">
